@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VithorDeSousaMoura\\source\\repos\\Primeiro_app_ANH\\Primeiro_app_ANH\\Primeiro_app_ANH.csproj": {}
+    "C:\\Users\\VithorDeSousaMoura\\source\\repos\\Primeiro_app_ANH\\Primeiro_app_ANH\\Primeiro_app_ANH\\Primeiro_app_ANH.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VithorDeSousaMoura\\source\\repos\\Primeiro_app_ANH\\Primeiro_app_ANH\\Primeiro_app_ANH.csproj": {
+    "C:\\Users\\VithorDeSousaMoura\\source\\repos\\Primeiro_app_ANH\\Primeiro_app_ANH\\Primeiro_app_ANH\\Primeiro_app_ANH.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VithorDeSousaMoura\\source\\repos\\Primeiro_app_ANH\\Primeiro_app_ANH\\Primeiro_app_ANH.csproj",
+        "projectUniqueName": "C:\\Users\\VithorDeSousaMoura\\source\\repos\\Primeiro_app_ANH\\Primeiro_app_ANH\\Primeiro_app_ANH\\Primeiro_app_ANH.csproj",
         "projectName": "Primeiro_app_ANH",
-        "projectPath": "C:\\Users\\VithorDeSousaMoura\\source\\repos\\Primeiro_app_ANH\\Primeiro_app_ANH\\Primeiro_app_ANH.csproj",
+        "projectPath": "C:\\Users\\VithorDeSousaMoura\\source\\repos\\Primeiro_app_ANH\\Primeiro_app_ANH\\Primeiro_app_ANH\\Primeiro_app_ANH.csproj",
         "packagesPath": "C:\\Users\\VithorDeSousaMoura\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VithorDeSousaMoura\\source\\repos\\Primeiro_app_ANH\\Primeiro_app_ANH\\obj\\",
+        "outputPath": "C:\\Users\\VithorDeSousaMoura\\source\\repos\\Primeiro_app_ANH\\Primeiro_app_ANH\\Primeiro_app_ANH\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
